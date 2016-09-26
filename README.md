@@ -1,6 +1,5 @@
-===============================================================================
 # FaceTweets
-===============================================================================
+===
 Simple Uploading Image Using Kohana 3.x.x Frameworks, Bootstrap &amp; JQuery
 
 ### Installation:
@@ -19,4 +18,5 @@ Simple Uploading Image Using Kohana 3.x.x Frameworks, Bootstrap &amp; JQuery
   4.  Pagination using bootpag - dynamic pagination jQuery plugin.  [bootpag](http://botmonster.com/jquery-bootpag/#.V-lsgPl97IU)
   5.  Add, Update, and Delete record without refreshing the page
 
-
+### Note:
+	* This is not compatible with PHP 7
