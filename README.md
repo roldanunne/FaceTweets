@@ -4,9 +4,9 @@ Simple Uploading Image Using Kohana 3.x.x Frameworks, Bootstrap &amp; JQuery
 
 ### Installation:
   1.  Clone the git project to your local machine: `git clone https://github.com/roldanunne/FaceTweets.git`
-  2.  Change 'base_url' at folder 'application/bootstrap.php' (depending on your structure):
+  2.  Change 'base_url' at folder 'application/bootstrap.php' (depending on your structure) eg. 
 	    'base_url'   => '/facetweets/',
-  3.  Rewrite '.htaccess' (depending on your structure):
+  3.  Rewrite '.htaccess' (depending on your structure) eg. 
       RewriteBase /facetweets/
   4.  Import corporatekeys.sql in your database
   5.  Modify the 'application/config/database.php' to suit your needs
